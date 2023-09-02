@@ -1,4 +1,4 @@
-##RSA Factoring challenge
+## RSA Factoring challenge
 
 RSA (Rivest-Shamir-Adleman) is a widely used asymmetric encryption algorithm in cryptography. It involves two keys, a public key used for encryption and a private key for decryption. It's based on the difficulty of factoring the product of two large prime numbers.
 
